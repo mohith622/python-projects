@@ -1,4 +1,4 @@
-str="Python string"
-print(str[0])
-print(str[1])
-print(str[9])
+a=10
+b=90
+if(a<b):
+print(a is small)
